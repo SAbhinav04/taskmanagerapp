@@ -25,3 +25,7 @@ A full-stack task management system with user registration/login, task CRUD oper
    ```bash
    git clone https://github.com/YOUR_USERNAME/task-manager.git
    cd task-manager
+2. Install backend dependencies
+```bash
+  npm install
+
